@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an graduate student in State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS), Wuhan University, China. 
+I am a graduate student in State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS), Wuhan University, China. 
 
 My research interest includes high-resolution remote sensing imagery understanding and intelligent interpretation.
 
@@ -25,8 +25,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2021.11*：🎉🎉I won the first prize in "2021 undergraduate mathematical contest in modeling"
-- *2022.02*：🎉🎉Our team won the special prize in "Surveying and Mapping Sci-tech Paper Competition"
+- *2021.11* 🎉🎉I won the first prize in "2021 undergraduate mathematical contest in modeling"
+- *2021.07* 🎉🎉Our team won the special prize in "Surveying and Mapping Sci-tech Paper Competition"
 
 # 📝 Publications 
 
@@ -44,8 +44,10 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+- *2022.05* Outstanding Communist Youth League member
 - *2021.12* Second Prize of Xia Jianbai Scholarship for Outstanding Young students in surveying and Mapping
-- *2021.11* First Class Scholarship of Wuhan University
+- *2021.12* First Class Scholarship of Wuhan University
+- *2020.12* Third Class Scholarship of Wuhan University
 
 # 📖 Educations
 - *2019.09 - 2023.06*, Undergraduate, School of Remote Sensing and Information Engineering, Wuhan University, China.
